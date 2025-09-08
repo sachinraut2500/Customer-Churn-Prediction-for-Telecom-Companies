@@ -10,7 +10,7 @@ Predict which customers are likely to leave (churn) using customer data.
 - Handles categorical and numerical features
 - Helps businesses proactively retain customers
 
----
+-----
 
 ## Dataset
 
